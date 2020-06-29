@@ -1,5 +1,7 @@
 # CUBE CSS
 
+![CUBE CSS logo](https://piccalilli.imgix.net/images/cube/logo.svg?format=auto&q=60&w=1500)
+
 This is the issue and discussion tracker for [CUBE CSS](http://piccalil.li/cube-css).
 
 The content isn’t open source, but the discourse certainly should be,
